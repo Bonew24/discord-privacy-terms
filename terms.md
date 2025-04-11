@@ -1,29 +1,37 @@
-# Términos de Uso
+# Terms of Service
 
-Última actualización: 11 de abril de 2025
+Last updated: April 11, 2025
 
-Bienvenido/a. Estos Términos de Uso ("Términos") rigen el uso del bot de Discord **Lambina** ("el Bot"), desarrollado por **Bonew24** ("nosotros", "nuestro").
+Welcome! These Terms of Service ("Terms") govern the use of the Discord bot **Lambina** ("the Bot"), developed by **Bonew24** ("we", "us", "our").
 
-Al invitar y utilizar el Bot en un servidor de Discord, aceptas cumplir con estos Términos.
+By inviting and using the Bot on a Discord server, you agree to follow these Terms.
 
-## 1. Uso permitido
+## 1. Acceptable Use
 
-- El Bot debe ser utilizado conforme a los Términos de Servicio de Discord: https://discord.com/terms
-- No debes utilizar el Bot para realizar actividades ilegales, abusivas, ofensivas o que violen las normas de la comunidad de Discord.
-- Nos reservamos el derecho de prohibir el acceso al Bot a cualquier usuario o servidor que incumpla estos Términos.
+- You agree to use the Bot in compliance with Discord’s Terms of Service: https://discord.com/terms
+- You may not use the Bot for illegal, abusive, or harmful activities, or in any way that violates Discord’s Community Guidelines: https://discord.com/guidelines
+- We reserve the right to deny access to the Bot to any user or server that violates these Terms or abuses the service.
 
-## 2. Cambios en el servicio
+## 2. Use of Data
 
-Nos reservamos el derecho de modificar, suspender o eliminar el Bot en cualquier momento, sin previo aviso.
+- By using the Bot, you understand and agree that messages you send to the Bot may be **stored** and used to **improve its AI-based functionalities**.
+- This data is not used for advertising or commercial purposes and is not shared with third parties.
 
-## 3. Limitación de responsabilidad
+For more information, please read our [Privacy Policy](https://your-link-to-privacy-policy).
 
-No nos hacemos responsables por pérdidas o daños que resulten del uso del Bot. El Bot se proporciona "tal cual", sin garantías de ningún tipo.
+## 3. Changes to the Bot
 
-## 4. Contacto
+We may modify, suspend, or terminate the Bot at any time without prior notice. We are not liable for any losses resulting from changes or downtime.
 
-Si tienes alguna duda sobre estos Términos, puedes contactarnos en: **andresegurado24@gmail.com**
+## 4. Limitation of Liability
+
+The Bot is provided "as is" without any warranties. We are not responsible for any damages or losses that result from using the Bot.
+
+## 5. Contact
+
+If you have questions or concerns about these Terms, you may contact us at: **andresegurado24@gmail.com**
 
 ---
 
-Al continuar utilizando el Bot, confirmas que has leído y aceptado estos Términos.
+By continuing to use Lambina, you confirm that you have read, understood, and agreed to these Terms of Service.
+
