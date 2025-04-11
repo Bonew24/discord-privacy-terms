@@ -1,52 +1,53 @@
-# Política de Privacidad
+# Privacy Policy
 
-Última actualización: 11 de abril de 2025
+Last updated: April 11, 2025
 
-Esta Política de Privacidad explica cómo el bot de Discord **Lambina** ("el Bot"), desarrollado por **Bonew24**, recopila, utiliza y protege la información de los usuarios.
+This Privacy Policy explains how the Discord bot **Lambina** ("the Bot"), developed by **Bonew24**, collects, uses, and protects user information.
 
-Al utilizar el Bot, aceptas los términos de esta política.
+By using the Bot, you agree to the terms outlined in this policy.
 
-## 1. Información que recopilamos
+## 1. Information We Collect
 
-**Lambina** recopila y almacena los siguientes datos cuando los usuarios interactúan con el Bot:
+Lambina collects and stores the following data when users interact with the Bot:
 
-- Mensajes enviados por los usuarios al Bot.
-- ID de usuario y ID del servidor donde se envió el mensaje.
+- Messages sent to the Bot.
+- User IDs and server IDs where the messages were sent.
 
-## 2. Uso de la información
+## 2. How We Use the Information
 
-La información recopilada se utiliza para:
+The collected information is used to:
 
-- Procesar correctamente los mensajes y comandos del usuario.
-- Mejorar el comportamiento, precisión y capacidades del Bot mediante técnicas de inteligencia artificial (IA).
-- Entrenar modelos internos para ofrecer una experiencia más personalizada e inteligente.
+- Process user messages and commands correctly.
+- Improve the Bot’s behavior, accuracy, and capabilities using artificial intelligence (AI) techniques.
+- Train internal models to provide a more intelligent and personalized experience.
 
-La información **no se utiliza para identificar personalmente a los usuarios** ni se utiliza con fines comerciales.
+This information is **not used to personally identify users**, nor is it used for commercial purposes.
 
-## 3. Entrenamiento y aprendizaje
+## 3. AI Training and Learning
 
-Los mensajes almacenados pueden ser utilizados como parte del proceso de entrenamiento del modelo de IA que impulsa a Lambina. Esto ayuda a que el Bot mejore su comprensión del lenguaje y su capacidad de respuesta con el tiempo.
+Messages may be used as part of the training process for the AI system that powers Lambina. This helps the Bot better understand language and improve its responses over time.
 
-## 4. Almacenamiento y seguridad
+## 4. Data Storage and Security
 
-Los datos se almacenan de forma segura en sistemas controlados por **Bonew24**. Se aplican medidas de protección razonables para evitar accesos no autorizados, pérdida o mal uso de la información.
+All data is securely stored on systems controlled by **Bonew24**. Reasonable measures are taken to protect the information against unauthorized access, loss, or misuse.
 
-## 5. Compartición de datos
+## 5. Data Sharing
 
-**No compartimos los datos recopilados con terceros.** Toda la información se utiliza exclusivamente para el funcionamiento y mejora de Lambina.
+**We do not share any collected data with third parties.** All information is used solely for the operation and improvement of Lambina.
 
-## 6. Derechos del usuario
+## 6. User Rights
 
-Si deseas que se eliminen tus datos o tienes preguntas sobre cómo se manejan, puedes contactarnos directamente. Nos comprometemos a respetar tu privacidad y a gestionar tus solicitudes de forma responsable.
+If you wish to request data deletion or have questions about how your data is handled, you may contact us. We are committed to respecting your privacy and handling all requests responsibly.
 
-## 7. Cambios en esta política
+## 7. Changes to This Policy
 
-Esta política puede ser actualizada en cualquier momento. La nueva versión se publicará en el mismo enlace con una nueva fecha de actualización.
+This policy may be updated at any time. The new version will be published at the same location with an updated date.
 
-## 8. Contacto
+## 8. Contact
 
-Si tienes preguntas o solicitudes relacionadas con esta política, puedes contactarnos en: **andresegurado24@gmail.com**
+For any questions or concerns about this policy, you can contact us at: **andresegurado24@gmail.com**
 
 ---
 
-Al utilizar Lambina, confirmas que entiendes y aceptas esta Política de Privacidad.
+By using Lambina, you confirm that you understand and accept this Privacy Policy.
+
