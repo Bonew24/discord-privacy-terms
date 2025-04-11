@@ -1,38 +1,54 @@
-# Terms of Service
+# Privacy Policy
 
 Last updated: April 11, 2025
 
-Welcome! These Terms of Service ("Terms") govern the use of the Discord bot **Lambina** ("the Bot"), developed by **Bonew24** ("we", "us", "our").
+This Privacy Policy explains how the Discord bot **Lambina** ("the Bot"), developed by **Bonew24**, collects, uses, and protects user information.
 
-By inviting and using the Bot on a Discord server, you agree to follow these Terms.
+By using the Bot, you agree to the terms outlined in this policy.
 
-## 1. Acceptable Use
+## 1. Information We Collect
 
-- You agree to use the Bot in compliance with Discord’s Terms of Service: https://discord.com/terms
-- You may not use the Bot for illegal, abusive, or harmful activities, or in any way that violates Discord’s Community Guidelines: https://discord.com/guidelines
-- We reserve the right to deny access to the Bot to any user or server that violates these Terms or abuses the service.
+Lambina collects and stores the following data when users interact with the Bot:
 
-## 2. Use of Data
+- Messages sent to the Bot.
+- User IDs and server IDs where the messages were sent.
 
-- By using the Bot, you understand and agree that messages you send to the Bot may be **stored** and used to **improve its AI-based functionalities**.
-- This data is not used for advertising or commercial purposes and is not shared with third parties.
+## 2. How We Use the Information
 
-For more information, please read our [Privacy Policy](https://your-link-to-privacy-policy).
+The collected information is used to:
 
-## 3. Changes to the Bot
+- Process user messages and commands correctly.
+- Improve the Bot’s behavior, accuracy, and capabilities using artificial intelligence (AI) techniques.
+- Train internal models to provide a more intelligent and personalized experience.
 
-We may modify, suspend, or terminate the Bot at any time without prior notice. We are not liable for any losses resulting from changes or downtime.
+This information is **not used to personally identify users**, nor is it used for commercial purposes.
 
-## 4. Limitation of Liability
+## 3. AI Training and Learning
 
-The Bot is provided "as is" without any warranties. We are not responsible for any damages or losses that result from using the Bot.
+Messages may be used as part of the training process for the AI system that powers Lambina. This helps the Bot better understand language and improve its responses over time.
 
-## 5. Contact
+## 4. Data Storage and Security
 
-If you have questions or concerns about these Terms, you may contact us at: **andresegurado24@gmail.com**
+All data is securely stored on systems controlled by **Bonew24**. Reasonable measures are taken to protect the information against unauthorized access, loss, or misuse.
+
+## 5. Data Sharing
+
+**We do not share any collected data with third parties.** All information is used solely for the operation and improvement of Lambina.
+
+## 6. User Rights
+
+If you wish to request data deletion or have questions about how your data is handled, you may contact us. We are committed to respecting your privacy and handling all requests responsibly.
+
+## 7. Changes to This Policy
+
+This policy may be updated at any time. The new version will be published at the same location with an updated date.
+
+## 8. Contact
+
+For any questions or concerns about this policy, you can contact us at: **andresegurado24@gmail.com**
 
 ---
 
-By continuing to use Lambina, you confirm that you have read, understood, and agreed to these Terms of Service.
+By using Lambina, you confirm that you understand and accept this Privacy Policy.
 
 
